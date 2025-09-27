@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\arden\\onedrive\\documentos\\github\\unrealenginecarde2025\\uecarden2025\\intermediate\\build\\win64\\unrealeditor\\inc\\uecarden2025\\uht\\myvehiculo.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\arden\\onedrive\\documentos\\github\\unrealenginecarde2025\\uecarden2025\\intermediate\\build\\win64\\x64\\uecarden2025editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\arden\\onedrive\\documentos\\github\\unrealenginecarde2025\\uecarden2025\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uecarden2025\\definitions.uecarden2025.h",
+            "c:\\users\\arden\\onedrive\\documentos\\github\\unrealenginecarde2025\\uecarden2025\\source\\uecarden2025\\myvehiculo.h",
+            "c:\\users\\arden\\onedrive\\documentos\\github\\unrealenginecarde2025\\uecarden2025\\source\\uecarden2025\\vehiculo.h",
+            "c:\\users\\arden\\onedrive\\documentos\\github\\unrealenginecarde2025\\uecarden2025\\intermediate\\build\\win64\\unrealeditor\\inc\\uecarden2025\\uht\\vehiculo.generated.h",
+            "c:\\users\\arden\\onedrive\\documentos\\github\\unrealenginecarde2025\\uecarden2025\\intermediate\\build\\win64\\unrealeditor\\inc\\uecarden2025\\uht\\myvehiculo.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

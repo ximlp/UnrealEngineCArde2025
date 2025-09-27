@@ -39,6 +39,12 @@
     <ClCompile Include="..\..\Source\UECArden2025\MyActorTest.h">
       <Filter>Source\UECArden2025</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\UECArden2025\MyVehiculo.cpp">
+      <Filter>Source\UECArden2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UECArden2025\MyVehiculo.h">
+      <Filter>Source\UECArden2025</Filter>
+    </ClCompile>
     <None Include="..\..\Source\UECArden2025\UECArden2025.Build.cs">
       <Filter>Source\UECArden2025</Filter>
     </None>
@@ -46,6 +52,12 @@
       <Filter>Source\UECArden2025</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\UECArden2025\UECArden2025.h">
+      <Filter>Source\UECArden2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UECArden2025\Vehiculo.cpp">
+      <Filter>Source\UECArden2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UECArden2025\Vehiculo.h">
       <Filter>Source\UECArden2025</Filter>
     </ClCompile>
   </ItemGroup>

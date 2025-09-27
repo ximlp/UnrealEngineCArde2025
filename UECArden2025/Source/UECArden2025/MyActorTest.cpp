@@ -38,7 +38,7 @@ void AMyActorTest::DemostrateFundamentals()
 	//int32 suma = edad + 5;
 	//float producto = MyFloatVariable * 2.5f;
 
-	if (esInstructor) {
+	/*if (esInstructor) {
 		GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT("bno es instructor y tiene  aos"));
 	}
 	else {
@@ -55,7 +55,7 @@ void AMyActorTest::DemostrateFundamentals()
 		FString WhileMessage = FString::Printf(TEXT("While loop iteration: %d"), count);
 		GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Cyan, WhileMessage);
 		count++;
-	}
+	}*/
 
 }
 
